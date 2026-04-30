@@ -59,9 +59,9 @@ func main() {
 		return
 	}
 
-	configDir := usr.HomeDir + "/.config/chatbang"
-	configPath := configDir + "/chatbang"
-	profileDir := usr.HomeDir + "/.config/chatbang/profile_data"
+	configDir := usr.HomeDir + "/.config/terminalGPT"
+	configPath := configDir + "/terminalGPT"
+	profileDir := usr.HomeDir + "/.config/terminalGPT/profile_data"
 
 	err = os.MkdirAll(configDir, 0o755)
 	if err != nil {
