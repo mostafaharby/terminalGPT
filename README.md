@@ -1,4 +1,8 @@
-# Chatbang
+# terminalGPT
+
+Developed by Mostafa Harby
+
+Based on chatbang by Ahmed Hossam
 
 `Chatbang` is a simple tool to access ChatGPT from the terminal, without needing for an API key.
 
